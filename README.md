@@ -72,17 +72,6 @@ I work across single-cell omics, ChIP-seq,WGS/WES, and multi-omics integration, 
 
 <br>
 
-**Also:** RMarkdown, Cytoscape.js, SGE
-
-### GitHub Stats
-
-<a href="https://github.com/natalie-23-gill">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=natalie-23-gill&show_icons=true&theme=default" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/natalie-23-gill">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-23-gill&layout=compact&theme=default" alt="Top Languages" />
-</a>
-
 ### Connect
 
 🌐 [natbytes.com](https://www.natbytes.com) · 🦋 [Bluesky](https://bsky.app/profile/natbytes.bsky.social) · 💼 [LinkedIn](https://www.linkedin.com/in/natalie-gill-bioinfo)
